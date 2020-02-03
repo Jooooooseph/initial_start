@@ -1,1 +1,2 @@
 Wow,That's cool!
+Switching to a new branch is quick!
